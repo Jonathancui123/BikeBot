@@ -1,5 +1,5 @@
 # BikeBot
-Notify when bikes that can be resold for profit are posted on Kijiji
+Notify when bikes that can be resold for profit are posted on Kijiji. Using python webscraping and leveraging NLP to compare postings on Kijiji with their market value.
 
 ## Install
 ### Manually
